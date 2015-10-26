@@ -1,0 +1,12 @@
+program hello ;program APCI 1301154518
+use ctrl ;
+begin
+CrlScr ;
+writen("hello world")
+writen("1301154518")
+writen("rina puspaningrum")
+writen("if 39-14")
+writen("hilmy")
+writen("1301154546")
+writen("modul 10")
+end
